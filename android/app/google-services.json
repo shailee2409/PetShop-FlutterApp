@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "601841047278",
+    "firebase_url": "https://petshop-24.firebaseio.com",
+    "project_id": "petshop-24",
+    "storage_bucket": "petshop-24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601841047278:android:999a4954114ddd443785ff",
+        "android_client_info": {
+          "package_name": "com.example.pet_shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601841047278-ngi99brm1r964c6ohqgc72noeg8cap2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pet_shop_app",
+            "certificate_hash": "beb3d56026e6d5cdd3fcddcb7dd7eb0400bc5bc8"
+          }
+        },
+        {
+          "client_id": "601841047278-i28b1ltobeg21hgm8a1m48eolprufopf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvuohfDlf7RvrJXXMYbpbdFGmxzR9ac18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601841047278-i28b1ltobeg21hgm8a1m48eolprufopf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
